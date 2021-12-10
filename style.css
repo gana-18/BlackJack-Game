@@ -1,0 +1,26 @@
+body{
+    background-color: darkgreen;
+    text-align:center;
+    font-family: 'Domine', serif;
+    font-family: 'JetBrains Mono', monospace;
+    margin-top:100px;
+    color:goldenrod;
+}
+button{
+    cursor:pointer;
+    color:darkgreen;
+    font-weight: 900;
+    width:150px;
+    padding:15px;
+    margin:15px;
+    border-radius:10px;
+    background-color:cornflowerblue;
+    border:2px solid cornflowerblue;
+    box-shadow:6px 2px 10px 5px rgb(126, 167, 243);
+}
+button:hover{
+    transform: scale(1.1);
+}
+#person-el{
+    color:rgb(245, 20, 132);
+}
